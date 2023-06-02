@@ -1,0 +1,1 @@
+This project contains two animations, one to explain the concept of derivate and the other to explain the concept of integral. They are made with Python and Manim.
